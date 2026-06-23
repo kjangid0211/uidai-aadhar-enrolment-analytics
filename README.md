@@ -196,10 +196,12 @@ UIDAI-Aadhaar-Enrolment-Analytics/
 │   └── UIDAI_Analytics.pbix
 │
 ├── Screenshots/
-    ├── dashboard_overview.png
-    ├── demographic_analysis.png
-    ├── geographic_analysis.png
-    └── trend_analysis.png
+├   ├── dashboard_overview.png
+├   ├── demographic_analysis.png
+├   ├── geographic_analysis.png
+├   └── trend_analysis.png
+└── Documentation/
+    └── project_summary.pdf
 ```
 
 ## Future Enhancements
