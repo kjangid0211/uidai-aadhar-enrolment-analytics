@@ -218,5 +218,5 @@ This project demonstrates an end-to-end analytics workflow encompassing data pre
 
 Beyond visualizing enrolment statistics, the project focuses on extracting meaningful operational and demographic patterns that can support evidence-based decision-making within a large-scale public service ecosystem.
 
-##AUTHOR 
+## AUTHOR 
 Kartik Jangid
