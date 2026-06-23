@@ -196,13 +196,10 @@ UIDAI-Aadhaar-Enrolment-Analytics/
 │   └── UIDAI_Analytics.pbix
 │
 ├── Screenshots/
-│   ├── dashboard_overview.png
-│   ├── demographic_analysis.png
-│   ├── geographic_analysis.png
-│   └── trend_analysis.png
-│
-└── Documentation/
-    └── project_summary.pdf
+    ├── dashboard_overview.png
+    ├── demographic_analysis.png
+    ├── geographic_analysis.png
+    └── trend_analysis.png
 ```
 
 ## Future Enhancements
@@ -220,3 +217,6 @@ UIDAI-Aadhaar-Enrolment-Analytics/
 This project demonstrates an end-to-end analytics workflow encompassing data preparation, SQL-based analysis, exploratory investigation, dashboard development, and insight generation.
 
 Beyond visualizing enrolment statistics, the project focuses on extracting meaningful operational and demographic patterns that can support evidence-based decision-making within a large-scale public service ecosystem.
+
+##AUTHOR 
+Kartik Jangid
